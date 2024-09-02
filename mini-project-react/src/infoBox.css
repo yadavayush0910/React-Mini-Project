@@ -1,0 +1,12 @@
+.InfoBox {
+    text-align: center;
+    position: relative;
+    bottom: 95px;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center; /* Centers the card horizontally */
+    align-items: center; /* Centers the card vertically */
+    height: 100vh; /* Makes sure the container takes the full viewport height */
+}
